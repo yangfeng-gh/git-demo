@@ -1,0 +1,3 @@
+[submodule "vue-dialog"]
+	path = vue-dialog
+	url = https://github.com/yangfeng-gh/vue-dialog.git
